@@ -13,7 +13,7 @@ import MyProject from "./components/Project/MyProject.jsx";
 /* -- Import the pages -- */
 import About from "./pages/AboutMe/aboutMe.jsx";
 import Contact from "./pages/Contact/contact.jsx";
-import portfolio from "./pages/Portfolio/portfolio.jsx";
+import Portfolio from "./pages/Portfolio/portfolio.jsx";
 import resume from "./pages/Resume/resume.jsx";
 
 
@@ -30,7 +30,14 @@ function App() {
           <Container> 
             <About /> 
           </Container>
+
+
+
+          <Container> 
+            <Contact /> 
+          </Container>
         </div>
+
       <MyFooter />
     </div>
   );

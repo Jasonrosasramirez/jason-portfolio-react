@@ -19,8 +19,8 @@ function MyNavBar() {
       {/* This is where the links come in :D */}
       {/* About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted - from readme*/}
       <Nav.Link href="#about">About Me</Nav.Link>
-      <Nav.Link href="#action2">Portfolio</Nav.Link>
-      <Nav.Link href="#action3">Contact</Nav.Link>
+      <Nav.Link href="#portfolio">Portfolio</Nav.Link>
+      <Nav.Link href="#contact">Contact</Nav.Link>
       <Nav.Link href="#action4">Resume</Nav.Link>
      
     </Nav>
