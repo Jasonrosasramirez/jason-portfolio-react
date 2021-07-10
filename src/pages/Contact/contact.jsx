@@ -13,9 +13,6 @@ const Contact = () => {
                
                 <p>email | jrosasrjf@gmail.com</p>
                 <p>phone number | (763) 501-1701</p>
-
-
-
             </div>
         </div>
     );

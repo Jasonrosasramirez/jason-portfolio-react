@@ -3,6 +3,26 @@ import MyProject from "../../components/Project/MyProject.jsx";
 import React, { useState } from "react";
 
 const Projects = () => {
+  return (
+    <div>
+      <h1> the project section </h1>
+
+
+
+
+    </div>
+  )
+};
+
+
+/* -- exporting -- */
+export default Projects;
+
+
+
+/*
+
+const Projects = () => {
   const [projects] = useState([
     {
       id: "Project1",
@@ -28,4 +48,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+*/

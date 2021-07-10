@@ -25,12 +25,17 @@ function App() {
     // This displays directly to the webpage
     <div className="App">
       <MyHeader />
+      
       <MyNavBar /> 
         <div>
           <Container> 
             <About /> 
           </Container>
 
+
+          <Container>
+            <Portfolio />
+          </Container>
 
 
           <Container> 
