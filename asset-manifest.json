@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.9744ea75.chunk.css",
+    "main.js": "/my-app/static/js/main.89d03981.chunk.js",
+    "main.js.map": "/my-app/static/js/main.89d03981.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.25d62b44.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.25d62b44.js.map",
+    "static/js/2.30495da0.chunk.js": "/my-app/static/js/2.30495da0.chunk.js",
+    "static/js/2.30495da0.chunk.js.map": "/my-app/static/js/2.30495da0.chunk.js.map",
+    "static/js/3.a9ebd627.chunk.js": "/my-app/static/js/3.a9ebd627.chunk.js",
+    "static/js/3.a9ebd627.chunk.js.map": "/my-app/static/js/3.a9ebd627.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.9744ea75.chunk.css.map": "/my-app/static/css/main.9744ea75.chunk.css.map",
+    "static/js/2.30495da0.chunk.js.LICENSE.txt": "/my-app/static/js/2.30495da0.chunk.js.LICENSE.txt",
+    "static/media/WebDevelopmentJasonRosasRamirez.0531a076.pdf": "/my-app/static/media/WebDevelopmentJasonRosasRamirez.0531a076.pdf",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25d62b44.js",
+    "static/js/2.30495da0.chunk.js",
+    "static/css/main.9744ea75.chunk.css",
+    "static/js/main.89d03981.chunk.js"
+  ]
+}
