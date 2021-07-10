@@ -1,4 +1,8 @@
+import React from "react";
 import "./aboutMe.css"; // styling 
+import picture from "./jasonPortrait.jpg"; 
+
+
 
 /* -- What will be displayed on screen --*/
 const About = () => {
@@ -8,6 +12,8 @@ const About = () => {
 
 
             <article>
+                <img id = "portraitOfJason" src = {picture} alt = "picture of Jason" />
+
                 <p>
                     Hello There, 
 

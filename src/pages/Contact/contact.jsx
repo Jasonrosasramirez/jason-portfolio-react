@@ -3,16 +3,18 @@ import "./contact.css"
 const Contact = () => {
     return (
         <div id = "contact">
-            <h1>Reach out and let's collaborate sometime</h1>
+            <h1>Contact Me </h1>
+            <h3> Let's Collaborate Sometime</h3>
 
             <div> 
-                <h2> Best Methods of reaching out </h2>
+               
+                <a href = "https://www.linkedin.com/in/jason-rosas-ramirez/" target="_blank" class="btn btn-primary"> Linkedin </a>
+                <a href = "https://github.com/Jasonrosasramirez" target="_blank" class="btn btn-primary"> gitHub </a>
+               
+                <p>email | jrosasrjf@gmail.com</p>
+                <p>phone number | (763) 501-1701</p>
 
-                <h2>LinkedIn</h2>
 
-                <h2>email</h2>
-
-                <h2>phone number</h2>
 
             </div>
         </div>
