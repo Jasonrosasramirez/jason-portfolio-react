@@ -1,3 +1,10 @@
+.h3Title {
+    float: left;
+    padding-right: 15px;
+    border-right: solid 4px RGB(13, 136, 197);
+}
+
+
 .section {
     border-top: rgb(215, 38, 56) solid 3px;
 }
@@ -20,9 +27,3 @@
     margin: 4px;
 }
 
-h3{
-    float: left;
-    padding-right: 15px;
-    border-right: solid 4px RGB(13, 136, 197);
-
-}
