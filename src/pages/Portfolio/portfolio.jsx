@@ -12,8 +12,8 @@ import pictureFitnessTracker from "./fitnessTracker.JPG";
 /* -- What is projected to the page -- */
 const Portfolio = () => {
   return (
-    <div id = "projects">
-        <h1> Web Development Project </h1>
+    <div class = "section" id = "projects">
+        <h1 class = "sectionTitle"> Web Development Project </h1>
 
         <article>
             {/* -- Password Generator -- */} 

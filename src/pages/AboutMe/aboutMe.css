@@ -1,3 +1,9 @@
+.sectionTitle {
+    border-top: rgb(215, 38, 56);
+    color: rgb(215, 38, 56);
+}
+
+
 #portraitOfJason {
     height: 120px; 
     width: 120px;

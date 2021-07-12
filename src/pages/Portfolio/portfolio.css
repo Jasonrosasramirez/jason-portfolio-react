@@ -1,6 +1,13 @@
+.section {
+    border-top: rgb(215, 38, 56) solid 3px;
+}
+
+.sectionTitle {
+    color: rgb(215, 38, 56);
+}
+
 .projectSection {
     margin-top: 10px;
-
 }
 
 .screenCaptures {     

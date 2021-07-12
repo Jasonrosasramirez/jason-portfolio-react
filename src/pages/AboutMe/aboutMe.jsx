@@ -8,7 +8,7 @@ import picture from "./jasonPortrait.jpg";
 const About = () => {
     return (
         <div id = "about">
-            <h1>About Me</h1>
+            <h1 class = "sectionTitle">About Me</h1>
 
 
             <article>
