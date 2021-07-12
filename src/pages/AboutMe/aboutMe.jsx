@@ -7,7 +7,7 @@ import picture from "./jasonPortrait.jpg";
 /* -- What will be displayed on screen --*/
 const About = () => {
     return (
-        <div id = "about">
+        <div class = "section" id = "about">
             <h1 class = "sectionTitle">About Me</h1>
 
 

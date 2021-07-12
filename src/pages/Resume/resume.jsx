@@ -5,8 +5,8 @@ import resumeFile from "./WebDevelopmentJasonRosasRamirez.pdf" // the PDF on the
 
 const Resume = () => {
     return (
-        <div id = "resume">
-            <h1> Jason's Resume </h1>
+        <div class = "section" id = "resume">
+            <h1 class = "sectionTitle"> Jason's Resume </h1>
             
             {/* Download Resume button*/}
             <h3> <a href={resumeFile} download="WebDevelopmentJasonRosasRamirez.pdf"> Download Jason's resume Resume </a> </h3>

@@ -7,7 +7,7 @@ import "./MyFooter.css" // importing style sheet
 function MyFooter() {
     return (
         <footer>
-            <h1>Hello I am a footer | Let's Collaborate Sometime </h1>
+            <h2>Let's Collaborate Sometime </h2>
 
             <ul>
                 <li href="https://www.linkedin.com/in/jason-rosas-ramirez/" target="_blank"> <a> LinkedIn </a></li> {/*<i class="fab fa-linkedin"></i>*/}

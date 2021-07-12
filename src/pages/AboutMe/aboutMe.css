@@ -1,5 +1,8 @@
+.section{
+    border-top: rgb(215, 38, 56) 3px solid;
+}
+
 .sectionTitle {
-    border-top: rgb(215, 38, 56);
     color: rgb(215, 38, 56);
 }
 

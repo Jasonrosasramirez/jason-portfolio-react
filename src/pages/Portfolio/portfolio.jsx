@@ -19,7 +19,7 @@ const Portfolio = () => {
             {/* -- Password Generator -- */} 
             <div class = "projectSection">
                 <h3>Password Generator</h3>
-                <p> The one and only password generator anyone will ever need. A password is randomly generated based on user criteria. 
+                <p>The one and only password generator anyone will ever need. A password is randomly generated based on user criteria. 
                   Keep your projects and accounts secure with impossible to guess characters! </p>
                 <img class = "screenCaptures" src = {picturePWGenerator} alt = "screenshot" />
                 <p> </p> {/* Line Break Here */}   
