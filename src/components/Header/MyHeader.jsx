@@ -2,7 +2,7 @@ import "./MyHeader.css";
 
 const MyHeader = () => {
     return (
-        <header>
+        <header class = "navBarColor">
             <h2>Let's Bring Concepts to Reality!</h2>
         </header>
     )

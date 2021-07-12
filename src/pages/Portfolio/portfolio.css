@@ -1,0 +1,15 @@
+.projectSection {
+    margin-top: 10px;
+
+}
+
+.screenCaptures {     
+    height: 300px; 
+    width: 600px; 
+    border: solid black 2px;
+}
+
+.btn {
+    margin: 4px;
+
+}

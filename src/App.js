@@ -14,7 +14,8 @@ import MyProject from "./components/Project/MyProject.jsx";
 import About from "./pages/AboutMe/aboutMe.jsx";
 import Contact from "./pages/Contact/contact.jsx";
 import Portfolio from "./pages/Portfolio/portfolio.jsx";
-import resume from "./pages/Resume/resume.jsx";
+//import resume from "./pages/Resume/resume.jsx";
+import Resume from './pages/Resume/resume.jsx';
 
 
 /* -- Display to Page -- */
@@ -32,11 +33,13 @@ function App() {
             <About /> 
           </Container>
 
-
           <Container>
             <Portfolio />
           </Container>
 
+          <Container>
+            <Resume />
+          </Container>
 
           <Container> 
             <Contact /> 
