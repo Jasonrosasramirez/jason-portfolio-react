@@ -9,3 +9,8 @@
 ul {
     list-style: none;
 }
+
+#mainColumns {
+    display: flex;
+    justify-content: space-evenly;
+}

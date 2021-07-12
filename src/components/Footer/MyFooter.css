@@ -1,3 +1,11 @@
-footer { 
-    border-top: RGB(20, 15, 45) 4px solid;
+footer {
+    border-top: RGB(215, 38, 56) 3px solid;
+    color: rgb(244, 157, 55);
+    background-color: rgb(20, 15, 45);
+}
+
+.contactLinks {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
 }

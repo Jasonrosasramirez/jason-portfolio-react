@@ -7,14 +7,13 @@ import "./MyFooter.css" // importing style sheet
 function MyFooter() {
     return (
         <footer>
-            <h2>Let's Collaborate Sometime </h2>
+            <h2> Let's Collaborate Sometime </h2>
 
-            <ul>
+            <div class = "contactLinks">
                 <li href="https://www.linkedin.com/in/jason-rosas-ramirez/" target="_blank"> <a> LinkedIn </a></li> {/*<i class="fab fa-linkedin"></i>*/}
                 <li href="https://github.com/Jasonrosasramirez" target="_blank"> <a> github </a> </li> {/*<i class="fab fa-github-alt"></i>*/}
-            </ul>
+            </div>
         </footer>
-
     )
 }
 
